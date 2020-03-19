@@ -1,4 +1,4 @@
-# coronavirus-tracker.github.io
+# Coronavirus Tracker and Statistics
 
 ## Link:
 https://coronavirus-tracker.github.io/
