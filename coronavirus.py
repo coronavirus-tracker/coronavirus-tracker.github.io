@@ -1,3 +1,7 @@
+# Authors: Abhijith Balijepalli, Ved Dave, Akhil Chinnakotla
+# Date: 3/18/2020
+# Description: Locationziled Data analysis on COVID-19 virus, using real time data from John Hopkins, WHO, CDC...etc.
+
 import numpy
 import math
 import scipy
@@ -7,7 +11,7 @@ import os
 
 CountryName = ''
 SubRegion = ''
-cwd = os.getcwd()
+cwd = os.getcwd() #Create Path
 
 
 def graphingTest(myList):
@@ -23,7 +27,6 @@ def graphingTest(myList):
     plt.close(fig)
     
     
-
 if __name__ == '__main__':
     with open('COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv') as csv_file: # load raw data from JHU
             csv_reader = csv.reader(csv_file)
