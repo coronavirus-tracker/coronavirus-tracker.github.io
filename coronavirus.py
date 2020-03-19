@@ -1,4 +1,4 @@
-# Authors: Abhijith Balijepalli, Ved Dave, Akhil Chinnakotla
+# Authors: Abhijith Balijepalli, Ved Dave
 # Date: 3/18/2020
 # Description: Locationziled Data analysis on COVID-19 virus, using real time data from John Hopkins, WHO, CDC...etc.
 # Copyright. Coronovirus Tracker
