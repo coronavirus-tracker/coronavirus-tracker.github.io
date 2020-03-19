@@ -1,2 +1,9 @@
 # coronavirus-tracker.github.io
-Filled with graphs for coronavirus
+
+This is an interactive live tracker for the 2020 COVID-19 Pandemic.
+
+    
+    
+    
+    
+    
