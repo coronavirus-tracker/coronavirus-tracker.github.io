@@ -1571,32 +1571,5 @@ var simplemaps_worldmap_mapdata={
       url: "default"
     }
   },
-  locations: {
-    "0": {
-      name: "Paris",
-      lat: "48.866666670",
-      lng: "2.333333333",
-      color: "default",
-      description: "default",
-      url: "default"
-    },
-    "1": {
-      name: "Tokyo",
-      lat: "35.666666670",
-      lng: "139.750000000",
-      color: "default",
-      description: "default",
-      url: "default"
-    },
-    "3": {
-      name: "New York",
-      lat: "40.71",
-      lng: "-74.0059731",
-      description: "default",
-      color: "default",
-      url: "default",
-      size: "default"
-    }
-  },
   labels: {}
 };
