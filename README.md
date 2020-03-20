@@ -10,7 +10,7 @@ This is an interactive live tracker for the 2020 COVID-19 Pandemic, inspired fro
 
 ## Contact:
     Ved Dave - davev@purdue.edu
-    
+    Akhil Chinnakotla -achinnak@purdue.edu
     
 ## Additional Links:    
 COVID-19 Visual Dashboard: https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6
